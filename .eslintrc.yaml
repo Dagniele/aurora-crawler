@@ -1,0 +1,5 @@
+extends:
+  - recommended/node
+rules:
+  import/no-commonjs: off
+
