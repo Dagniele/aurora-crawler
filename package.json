@@ -8,9 +8,10 @@
     "serve": "node src/index.js"
   },
   "dependencies": {
+    "cron": "^1.8.2",
     "express": "^4.17.1",
-    "puppeteer": "^5.3.1",
-    "remove": "^0.1.5"
+    "nodemailer": "^6.4.14",
+    "puppeteer": "^5.3.1"
   },
   "devDependencies": {
     "eslint": "^7.11.0",

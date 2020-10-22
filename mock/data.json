@@ -1,0 +1,137 @@
+[
+  {
+    "date": "Oct 22",
+    "times": [
+      {
+        "time": "00-03UT",
+        "stringValue": "3",
+        "numValue": 3
+      },
+      {
+        "time": "03-06UT",
+        "stringValue": "1",
+        "numValue": 1
+      },
+      {
+        "time": "06-09UT",
+        "stringValue": "1",
+        "numValue": 1
+      },
+      {
+        "time": "09-12UT",
+        "stringValue": "0",
+        "numValue": 0
+      },
+      {
+        "time": "12-15UT",
+        "stringValue": "3",
+        "numValue": 3
+      },
+      {
+        "time": "15-18UT",
+        "stringValue": "2",
+        "numValue": 2
+      },
+      {
+        "time": "18-21UT",
+        "stringValue": "5 (G1)",
+        "numValue": 5
+      },
+      {
+        "time": "21-00UT",
+        "stringValue": "3",
+        "numValue": 3
+      }
+    ]
+  },
+  {
+    "date": "Oct 23",
+    "times": [
+      {
+        "time": "00-03UT",
+        "stringValue": "4",
+        "numValue": 4
+      },
+      {
+        "time": "03-06UT",
+        "stringValue": "5 (G1)",
+        "numValue": 5
+      },
+      {
+        "time": "06-09UT",
+        "stringValue": "4",
+        "numValue": 4
+      },
+      {
+        "time": "09-12UT",
+        "stringValue": "4",
+        "numValue": 4
+      },
+      {
+        "time": "12-15UT",
+        "stringValue": "3",
+        "numValue": 3
+      },
+      {
+        "time": "15-18UT",
+        "stringValue": "3",
+        "numValue": 3
+      },
+      {
+        "time": "18-21UT",
+        "stringValue": "2",
+        "numValue": 2
+      },
+      {
+        "time": "21-00UT",
+        "stringValue": "3",
+        "numValue": 3
+      }
+    ]
+  },
+  {
+    "date": "Oct 24",
+    "times": [
+      {
+        "time": "00-03UT",
+        "stringValue": "3",
+        "numValue": 3
+      },
+      {
+        "time": "03-06UT",
+        "stringValue": "4",
+        "numValue": 4
+      },
+      {
+        "time": "06-09UT",
+        "stringValue": "3",
+        "numValue": 3
+      },
+      {
+        "time": "09-12UT",
+        "stringValue": "3",
+        "numValue": 3
+      },
+      {
+        "time": "12-15UT",
+        "stringValue": "2",
+        "numValue": 2
+      },
+      {
+        "time": "15-18UT",
+        "stringValue": "3",
+        "numValue": 3
+      },
+      {
+        "time": "18-21UT",
+        "stringValue": "3",
+        "numValue": 3
+      },
+      {
+        "time": "21-00UT",
+        "stringValue": "3",
+        "numValue": 3
+      }
+    ]
+  }
+]
