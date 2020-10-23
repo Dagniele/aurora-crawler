@@ -5,7 +5,7 @@ const { sendMail, verify } = require('./mailer');
 const parse = require('./parse');
 
 const app = express();
-const port = 9000;
+const port = process.env.PORT || 9000;
 
 app.get('/health', (req, res) => {
   res.sendStatus(200);
