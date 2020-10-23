@@ -46,13 +46,11 @@ async function checkAndSendEmail() {
   });
 }
 
-checkAndSendEmail();
-
 // eslint-disable-next-line no-unused-vars
 const job = new CronJob(
   '0 0 16 * * *',
   () => {
-    console.log('You will see this message every second');
+    checkAndSendEmail();
   },
   null,
   true,
