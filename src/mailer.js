@@ -23,7 +23,7 @@ const transporter = nodemailer.createTransport(options);
 exports.sendMail = async (date, messageContent) => {
   const message = {
     from: 'Aurora Forecast <mail@bryllupiitalia.eu>',
-    to: 'daniele.pagano@gmail.com',
+    to: 'daniele.pagano@gmail.com,ferraroale86@gmail.com',
     subject: `Aurora Forecast ${date}`,
     text: messageContent,
     html: `<p>${messageContent}</p>`,
